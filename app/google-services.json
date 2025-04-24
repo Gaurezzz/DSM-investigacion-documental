@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086891595685",
+    "project_id": "departamentos-udb",
+    "storage_bucket": "departamentos-udb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086891595685:android:403ea470b1397d3c9efa4c",
+        "android_client_info": {
+          "package_name": "com.example.departamentos_udb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFT-RPw5h2I0279o6XYMUUnkSvFas-SpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
